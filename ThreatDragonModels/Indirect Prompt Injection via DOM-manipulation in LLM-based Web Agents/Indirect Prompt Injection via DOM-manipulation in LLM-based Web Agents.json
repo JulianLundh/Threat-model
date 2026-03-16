@@ -1,0 +1,16 @@
+{
+  "version": "2.6.0",
+  "summary": {
+    "title": "Indirect Prompt Injection via DOM-manipulation in LLM-based Web Agents",
+    "owner": "Julian",
+    "description": "The system consists of an SLM-driven autonomous browser (Browser-use), where users submit tasks for the agent to solve, such as extracting information from a Wikipedia article. This study explores vulnerabilities where an attacker attempts to take control of the agent by placing injections within the website's DOM (Document Object Model). The purpose of these injections is to manipulate and change the agent's intended tasks. Specifically, the focus is on whether the placement of the injection (Header, Body, or Footer) affects the agent's likelihood to exfiltrate sensitive data or perform unauthorized actions on third-party sites.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
